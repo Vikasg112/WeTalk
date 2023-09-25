@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "386878203806",
+    "project_id": "wechat-abe8c",
+    "storage_bucket": "wechat-abe8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386878203806:android:193191c3b558c88eefd88f",
+        "android_client_info": {
+          "package_name": "com.vicky.wetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386878203806-rda4ug8jo5pa79nr52aplj1k6b9n9ib4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vicky.wetalk",
+            "certificate_hash": "14a4149317fa8da2f8c64be46eaa369be8082d57"
+          }
+        },
+        {
+          "client_id": "386878203806-a5sru2apt3q8fn52c7vcrvvql9cp0n9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjZ8scKoT2D27zRrFjQIKPMT8CSbU-H3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386878203806-a5sru2apt3q8fn52c7vcrvvql9cp0n9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
